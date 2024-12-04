@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/jobforsa/public_html/
-    - /bin/cp ab $DEPLOYPATH
+    - /bin/cp * $DEPLOYPATH
